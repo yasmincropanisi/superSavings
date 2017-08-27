@@ -1,0 +1,6 @@
+framework module AgillitasClient {
+  umbrella header "AgillitasClient-umbrella.h"
+
+  export *
+  module * { export * }
+}
